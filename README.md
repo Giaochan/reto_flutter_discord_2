@@ -1,10 +1,10 @@
 # reto_discord_1
 
-A new Flutter project.
+Un Reto de discord más
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Este proyecto fue una pantalla que se realizo como reto en el canal de Discord Locos x Flutter y Dart
 
 A few resources to get you started if this is your first Flutter project:
 
